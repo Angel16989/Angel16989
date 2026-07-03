@@ -8,7 +8,7 @@ Rasik Tiwari
 
 ## Bio
 
-Data-focused developer building SQL tools, automation scripts, IT dashboards, and practical web/mobile apps.
+BI/data professional building Snowflake SQL tools, IT automation, dashboards, and full-stack products.
 
 ## Location
 
@@ -16,12 +16,12 @@ Brisbane, Australia
 
 ## Suggested Pinned Repositories
 
-1. `snowquery`
-2. `candyMobileapp`
-3. `Password-Expiry-Checker`
+1. `LIQUIDLIFE`
+2. `snowquery`
+3. `capstone_kent`
 4. `enterprise-sysadmin-dashboard`
-5. `capstone_kent`
-6. `Personal_website_vibecode`
+5. `cybersecurity-incident-response`
+6. `Password-Expiry-Checker`
 
 ## Repository Cleanup Ideas
 
