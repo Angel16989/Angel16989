@@ -1,0 +1,24 @@
+<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="190" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="188" rx="21" stroke="#f97316" stroke-opacity="0.40" stroke-width="2"/>
+  <circle cx="490" cy="52" r="74" fill="#f97316" fill-opacity="0.15"/>
+  <circle cx="70" cy="166" r="82" fill="#ef4444" fill-opacity="0.10"/>
+  <path d="M438 39L496 62V106C496 130 474 148 438 158C402 148 380 130 380 106V62L438 39Z" stroke="#fb923c" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M418 98L433 113L461 78" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="45" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">SECURITY WORKFLOW</text>
+  <text x="34" y="84" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">Incident Response</text>
+  <text x="34" y="115" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">AI-powered threat detection and automated response concept.</text>
+  <rect x="34" y="139" width="96" height="27" rx="13.5" fill="#f97316" fill-opacity="0.22"/>
+  <rect x="140" y="139" width="76" height="27" rx="13.5" fill="#ef4444" fill-opacity="0.20"/>
+  <rect x="226" y="139" width="82" height="27" rx="13.5" fill="#38bdf8" fill-opacity="0.18"/>
+  <text x="55" y="158" fill="#fed7aa" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Security</text>
+  <text x="164" y="158" fill="#fecaca" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">AI</text>
+  <text x="248" y="158" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Ops</text>
+</svg>

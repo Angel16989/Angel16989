@@ -1,0 +1,27 @@
+<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="32" y1="150" x2="530" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="190" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="188" rx="21" stroke="#38bdf8" stroke-opacity="0.38" stroke-width="2"/>
+  <circle cx="485" cy="52" r="78" fill="#38bdf8" fill-opacity="0.13"/>
+  <circle cx="70" cy="162" r="82" fill="#818cf8" fill-opacity="0.10"/>
+  <path d="M38 136H124L158 96H244L284 124H368L416 76H516" stroke="url(#line)" stroke-width="4" stroke-linejoin="round"/>
+  <text x="34" y="45" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">DATA TOOL</text>
+  <text x="34" y="84" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">SnowQuery</text>
+  <text x="34" y="115" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">PostgreSQL learning lab with worksheet UI and query history.</text>
+  <rect x="34" y="139" width="92" height="27" rx="13.5" fill="#38bdf8" fill-opacity="0.20"/>
+  <rect x="136" y="139" width="96" height="27" rx="13.5" fill="#22c55e" fill-opacity="0.18"/>
+  <rect x="242" y="139" width="72" height="27" rx="13.5" fill="#facc15" fill-opacity="0.18"/>
+  <text x="55" y="158" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Node.js</text>
+  <text x="154" y="158" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Postgres</text>
+  <text x="263" y="158" fill="#fef08a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">SQL</text>
+</svg>

@@ -60,28 +60,28 @@ current_focus:
 
 <p align="center">
   <a href="https://github.com/Angel16989/LIQUIDLIFE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=LIQUIDLIFE&theme=tokyonight&hide_border=true" alt="LIQUIDLIFE repo card" />
+    <img src="./assets/card-liquidlife.svg" width="49%" alt="LIQUIDLIFE project card" />
   </a>
   <a href="https://github.com/Angel16989/snowquery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=snowquery&theme=tokyonight&hide_border=true" alt="SnowQuery repo card" />
+    <img src="./assets/card-snowquery.svg" width="49%" alt="SnowQuery project card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Angel16989/capstone_kent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=capstone_kent&theme=tokyonight&hide_border=true" alt="Capstone Kent repo card" />
+    <img src="./assets/card-capstone.svg" width="49%" alt="capstone_kent project card" />
   </a>
   <a href="https://github.com/Angel16989/enterprise-sysadmin-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=enterprise-sysadmin-dashboard&theme=tokyonight&hide_border=true" alt="Enterprise Sysadmin Dashboard repo card" />
+    <img src="./assets/card-sysadmin.svg" width="49%" alt="Enterprise Sysadmin Dashboard project card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Angel16989/cybersecurity-incident-response">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=cybersecurity-incident-response&theme=tokyonight&hide_border=true" alt="Cybersecurity Incident Response repo card" />
+    <img src="./assets/card-cybersecurity.svg" width="49%" alt="Cybersecurity Incident Response project card" />
   </a>
   <a href="https://github.com/Angel16989/Password-Expiry-Checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angel16989&repo=Password-Expiry-Checker&theme=tokyonight&hide_border=true" alt="Password Expiry Checker repo card" />
+    <img src="./assets/card-password-expiry.svg" width="49%" alt="Password Expiry Checker project card" />
   </a>
 </p>
 

@@ -1,0 +1,27 @@
+<svg width="560" height="190" viewBox="0 0 560 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="560" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+    <linearGradient id="line" x1="24" y1="20" x2="536" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="190" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="558" height="188" rx="21" stroke="#22c55e" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="492" cy="45" r="74" fill="#22c55e" fill-opacity="0.13"/>
+  <circle cx="80" cy="172" r="86" fill="#38bdf8" fill-opacity="0.10"/>
+  <path d="M31 146C94 82 132 158 197 102C260 48 324 110 382 73C433 40 479 42 529 23" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+  <text x="34" y="45" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">LIVE FULL-STACK APP</text>
+  <text x="34" y="84" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">LIQUIDLIFE</text>
+  <text x="34" y="115" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">Job tracking, documents, approvals, and workflow automation.</text>
+  <rect x="34" y="139" width="92" height="27" rx="13.5" fill="#22c55e" fill-opacity="0.22"/>
+  <rect x="136" y="139" width="94" height="27" rx="13.5" fill="#38bdf8" fill-opacity="0.19"/>
+  <rect x="240" y="139" width="120" height="27" rx="13.5" fill="#f97316" fill-opacity="0.18"/>
+  <text x="53" y="158" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">TypeScript</text>
+  <text x="158" y="158" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Product</text>
+  <text x="262" y="158" fill="#fed7aa" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Automation</text>
+</svg>
