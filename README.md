@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Angel16989&style=for-the-badge&color=38bdf8" alt="Profile views" />
-  <img src="https://img.shields.io/badge/35_Public_Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="35 public repos" />
+  <img src="https://img.shields.io/badge/36_Public_Repos-111827?style=for-the-badge&logo=github&logoColor=white" alt="36 public repos" />
   <img src="https://img.shields.io/badge/Brisbane-Australia-14b8a6?style=for-the-badge" alt="Brisbane Australia" />
 </p>
 
@@ -150,20 +150,12 @@ current_focus:
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angel16989&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rasik GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel16989&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./assets/dashboard-snapshot.svg" width="49%" alt="GitHub snapshot dashboard card" />
+  <img src="./assets/dashboard-stack.svg" width="49%" alt="Build stack dashboard card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel16989&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel16989&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel16989&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="./assets/dashboard-momentum.svg" width="100%" alt="Build momentum dashboard card" />
 </p>
 
 ---

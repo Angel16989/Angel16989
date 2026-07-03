@@ -1,0 +1,30 @@
+<svg width="1140" height="210" viewBox="0 0 1140 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1140" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="line" x1="56" y1="150" x2="1080" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="1140" height="210" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1138" height="208" rx="23" stroke="#818cf8" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="990" cy="54" r="100" fill="#818cf8" fill-opacity="0.11"/>
+  <circle cx="124" cy="196" r="118" fill="#38bdf8" fill-opacity="0.08"/>
+  <text x="42" y="46" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">BUILD MOMENTUM</text>
+  <text x="42" y="86" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">From support tickets to BI pipelines to full-stack products.</text>
+  <text x="42" y="116" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="17">The profile story: operational support foundation, data/reporting growth, and practical apps that solve real workflow problems.</text>
+  <path d="M58 158C170 104 240 174 350 124C456 77 540 147 652 96C772 41 886 99 1074 42" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="58" cy="158" r="6" fill="#38bdf8"/>
+  <circle cx="350" cy="124" r="6" fill="#22c55e"/>
+  <circle cx="652" cy="96" r="6" fill="#f97316"/>
+  <circle cx="1074" cy="42" r="6" fill="#a78bfa"/>
+  <text x="42" y="188" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">IT Support</text>
+  <text x="316" y="188" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Automation</text>
+  <text x="620" y="188" fill="#fed7aa" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">BI/Data</text>
+  <text x="1014" y="188" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Products</text>
+</svg>
