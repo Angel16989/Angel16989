@@ -1,0 +1,70 @@
+<svg width="1140" height="300" viewBox="0 0 1140 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1140" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.42" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+    <linearGradient id="pitch" x1="114" y1="222" x2="1028" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22c55e"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#facc15"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(938 64) rotate(130) scale(330 210)">
+      <stop stop-color="#22c55e" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#94a3b8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1140" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1140" height="300" rx="28" fill="url(#grid)"/>
+  <rect width="1140" height="300" rx="28" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1137" height="297" rx="26.5" stroke="#22c55e" stroke-opacity="0.45" stroke-width="3"/>
+
+  <path d="M116 220C216 121 294 246 406 150C500 70 578 155 681 103C790 48 893 75 1027 34" stroke="url(#pitch)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M134 254C238 190 340 262 456 200C564 142 649 214 764 150C866 94 938 124 1034 84" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.28"/>
+  <circle cx="116" cy="220" r="7" fill="#22c55e"/>
+  <circle cx="406" cy="150" r="7" fill="#38bdf8"/>
+  <circle cx="681" cy="103" r="7" fill="#facc15"/>
+  <circle cx="1027" cy="34" r="7" fill="#22c55e"/>
+
+  <g transform="translate(828 82)">
+    <rect x="0" y="0" width="230" height="140" rx="18" fill="#020617" fill-opacity="0.58" stroke="#22c55e" stroke-opacity="0.35"/>
+    <rect x="22" y="24" width="186" height="92" rx="8" stroke="#38bdf8" stroke-opacity="0.9" stroke-width="3"/>
+    <line x1="115" y1="24" x2="115" y2="116" stroke="#38bdf8" stroke-opacity="0.65" stroke-width="2"/>
+    <circle cx="115" cy="70" r="20" stroke="#38bdf8" stroke-opacity="0.65" stroke-width="2"/>
+    <circle cx="70" cy="64" r="8" fill="#22c55e"/>
+    <circle cx="153" cy="86" r="8" fill="#facc15"/>
+    <path d="M70 64L115 70L153 86" stroke="#ffffff" stroke-opacity="0.65" stroke-width="2"/>
+  </g>
+
+  <text x="52" y="58" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800" letter-spacing="4">PREMIER LIVE BUILD</text>
+  <text x="52" y="116" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="900">WorldCupIQ</text>
+  <text x="54" y="153" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">2026 FIFA World Cup intelligence app for teams, fixtures, predictions, knockout paths, and tournament simulation.</text>
+
+  <rect x="54" y="184" width="92" height="32" rx="16" fill="#22c55e" fill-opacity="0.24"/>
+  <rect x="158" y="184" width="104" height="32" rx="16" fill="#38bdf8" fill-opacity="0.20"/>
+  <rect x="274" y="184" width="96" height="32" rx="16" fill="#facc15" fill-opacity="0.20"/>
+  <rect x="382" y="184" width="96" height="32" rx="16" fill="#a78bfa" fill-opacity="0.20"/>
+  <rect x="490" y="184" width="118" height="32" rx="16" fill="#f97316" fill-opacity="0.18"/>
+
+  <text x="81" y="205" fill="#bbf7d0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Next.js</text>
+  <text x="184" y="205" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">FastAPI</text>
+  <text x="300" y="205" fill="#fef08a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Postgres</text>
+  <text x="407" y="205" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">VOID AI</text>
+  <text x="513" y="205" fill="#fed7aa" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="800">Live Data</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-weight="800">
+    <text x="54" y="252" fill="#ffffff" font-size="28">48</text>
+    <text x="98" y="252" fill="#94a3b8" font-size="13" letter-spacing="2">TEAMS</text>
+    <text x="182" y="252" fill="#ffffff" font-size="28">104</text>
+    <text x="238" y="252" fill="#94a3b8" font-size="13" letter-spacing="2">MATCHES</text>
+    <text x="354" y="252" fill="#ffffff" font-size="28">16</text>
+    <text x="398" y="252" fill="#94a3b8" font-size="13" letter-spacing="2">VENUES</text>
+    <text x="500" y="252" fill="#ffffff" font-size="28">LIVE</text>
+    <text x="570" y="252" fill="#94a3b8" font-size="13" letter-spacing="2">CLOUDFLARE RUN</text>
+  </g>
+</svg>

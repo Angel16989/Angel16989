@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://deviation-pubs-fresh-leaves.trycloudflare.com/"><img src="https://img.shields.io/badge/Live_App-WorldCupIQ-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" alt="WorldCupIQ live app" /></a>
   <a href="https://rasikn.com"><img src="https://img.shields.io/badge/Portfolio-rasikn.com-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://liquidlife.rasikn.com"><img src="https://img.shields.io/badge/Live_App-Liquid_Life-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Liquid Life" /></a>
   <a href="https://www.linkedin.com/in/rasik-tiwari"><img src="https://img.shields.io/badge/LinkedIn-Rasik_Tiwari-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -128,6 +129,24 @@ ai_workflow = {
 
 ---
 
+## Premier Build
+
+<p align="center">
+  <a href="https://deviation-pubs-fresh-leaves.trycloudflare.com/">
+    <img src="./assets/card-worldcupiq.svg" width="100%" alt="WorldCupIQ live 2026 World Cup intelligence project card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Angel16989/WC26IQ/tree/codex/live-api-warehouse-sync"><img src="https://img.shields.io/badge/Source-WC26IQ_branch-111827?style=for-the-badge&logo=github&logoColor=white" alt="WC26IQ source branch" /></a>
+  <a href="https://deviation-pubs-fresh-leaves.trycloudflare.com/"><img src="https://img.shields.io/badge/Live-WorldCupIQ-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" alt="WorldCupIQ live deployment" /></a>
+  <img src="https://img.shields.io/badge/Stack-Next.js_%2B_FastAPI_%2B_Postgres-38bdf8?style=for-the-badge" alt="WorldCupIQ stack" />
+</p>
+
+WorldCupIQ is my biggest current build: a live 2026 FIFA World Cup intelligence app with teams, fixtures, predictions, knockout paths, tournament simulation, provider-backed football data, and a separate VOID AI research/runtime layer.
+
+---
+
 ## 🚀 Featured Builds
 
 <p align="center">
@@ -165,6 +184,7 @@ ai_workflow = {
   <tr>
     <td width="50%">
       <h3>📈 Data, BI & Reporting</h3>
+      <a href="https://github.com/Angel16989/WC26IQ/tree/codex/live-api-warehouse-sync"><img src="https://img.shields.io/badge/WorldCupIQ-Live_2026_World_Cup_intelligence-22c55e?style=flat-square&logo=cloudflare&logoColor=white" /></a><br/>
       <a href="https://github.com/Angel16989/snowquery"><img src="https://img.shields.io/badge/SnowQuery-SQL_learning_lab-38bdf8?style=flat-square&logo=postgresql&logoColor=white" /></a><br/>
       <a href="https://github.com/Angel16989/domain-device-reports"><img src="https://img.shields.io/badge/Domain_Device_Reports-Reporting_signal-14b8a6?style=flat-square&logo=googlesheets&logoColor=white" /></a><br/>
       <a href="https://github.com/Angel16989/financial-mini-project"><img src="https://img.shields.io/badge/Financial_Mini_Project-Analysis_build-f59e0b?style=flat-square" /></a><br/>
@@ -187,6 +207,7 @@ ai_workflow = {
     </td>
     <td width="50%">
       <h3>🌐 Web, Product & Apps</h3>
+      <a href="https://deviation-pubs-fresh-leaves.trycloudflare.com/"><img src="https://img.shields.io/badge/WorldCupIQ-Live_analytics_app-22c55e?style=flat-square&logo=cloudflare&logoColor=white" /></a><br/>
       <a href="https://liquidlife.rasikn.com"><img src="https://img.shields.io/badge/Liquid_Life-Live_full_stack_app-14b8a6?style=flat-square&logo=vercel&logoColor=white" /></a><br/>
       <a href="https://github.com/Angel16989/capstone_kent"><img src="https://img.shields.io/badge/Capstone_Kent-Full_stack_platform-8b5cf6?style=flat-square&logo=php&logoColor=white" /></a><br/>
       <a href="https://github.com/Angel16989/candyMobileapp"><img src="https://img.shields.io/badge/CandyMobileApp-AI--generated_Flutter_storefront-f472b6?style=flat-square&logo=flutter&logoColor=white" /></a><br/>
@@ -227,20 +248,12 @@ ai_workflow = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Angel16989&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Rasik GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel16989&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./assets/dashboard-snapshot.svg" width="49%" alt="GitHub snapshot dashboard card" />
+  <img src="./assets/dashboard-stack.svg" width="49%" alt="Build stack dashboard card" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Angel16989&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel16989&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel16989&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="./assets/dashboard-momentum.svg" width="100%" alt="Build momentum dashboard card" />
 </p>
 
 ---
@@ -252,7 +265,8 @@ SQL & data investigation        ████████████░░  87%
 Dashboards & data storytelling  ███████████░░░  82%
 ETL & reporting pipelines       ██████████░░░░  75%
 AI-augmented workflows          █████████████░  93%
-Full-stack product builds       █████████░░░░░  68%
+Live sports analytics product   ████████████░░  88%
+Full-stack product builds       ██████████░░░░  72%
 ```
 
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming

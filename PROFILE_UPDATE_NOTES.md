@@ -8,7 +8,7 @@ Rasik Tiwari
 
 ## Bio
 
-BI/data professional building Snowflake SQL tools, IT automation, dashboards, and full-stack products.
+BI/data professional building WorldCupIQ, Snowflake SQL tools, IT automation, dashboards, and full-stack products.
 
 ## Location
 
@@ -16,12 +16,12 @@ Brisbane, Australia
 
 ## Suggested Pinned Repositories
 
-1. `LIQUIDLIFE`
-2. `snowquery`
-3. `capstone_kent`
-4. `enterprise-sysadmin-dashboard`
-5. `cybersecurity-incident-response`
-6. `Password-Expiry-Checker`
+1. `WC26IQ`
+2. `LIQUIDLIFE`
+3. `snowquery`
+4. `capstone_kent`
+5. `enterprise-sysadmin-dashboard`
+6. `cybersecurity-incident-response`
 
 ## Repository Cleanup Ideas
 
